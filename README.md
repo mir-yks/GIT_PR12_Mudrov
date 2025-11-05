@@ -22,7 +22,15 @@
 | 1 | МДК 02.01 ТРПО | 
 | 2 | МДК 02.02 Инструментальные средства | 
 
-
 ### Фото с общежития
 
 ![Фото друзей с общежития](https://github.com/mir-yks/GIT_PR12_Mudrov/blob/main/IMG_6588.jpg)
+
+### Код, выводящий мое ФИО и группу в сообщении
+
+```csharp
+private void button3_Click(object sender, EventArgs e)
+{
+    MessageBox.Show("Мудров Максим Андреевич ИС‑22А");
+}
+
