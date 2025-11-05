@@ -4,6 +4,8 @@
 
 ## Обо мне:
 
+Живу в общежитии своего учебного заведения
+
 **Учебное заведение:** Заволжский автомоторный техникум
 
 **Группа:** ИС-22А
@@ -11,4 +13,6 @@
 **Контакты:**  
 - Email: mudrov010203@gmail.com
 - Телефон: +79027836268
-- GitHub: [Мой GitHub](https://github.com/mir-yks)  
+- GitHub: [Мой GitHub](https://github.com/mir-yks)
+
+![Фото друзей с общежития](https://github.com/mir-yks/GIT_PR12_Mudrov/blob/main/IMG_6588.jpg)
